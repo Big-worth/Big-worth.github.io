@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://big-worth.github.io//sitemap.xml
+Sitemap: https://big-worth.github.io//baidusitemap.xml
