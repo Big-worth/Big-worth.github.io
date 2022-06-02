@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://big-worth.github.io/2022/05/27/test/</loc>
+    <loc>https://big-worth.github.io/archives/16107.html</loc>
+    
+    <lastmod>2022-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-worth.github.io/archives/63534.html</loc>
+    
+    <lastmod>2022-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-worth.github.io/categories/index.html</loc>
     
     <lastmod>2022-06-01</lastmod>
     
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://big-worth.github.io/categories/index.html</loc>
+    <loc>https://big-worth.github.io/tags/index.html</loc>
     
     <lastmod>2022-06-01</lastmod>
     
@@ -20,25 +38,7 @@
   </url>
   
   <url>
-    <loc>http://big-worth.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://big-worth.github.io/link/index.html</loc>
-    
-    <lastmod>2022-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://big-worth.github.io/2022/05/27/hello-world/</loc>
+    <loc>https://big-worth.github.io/link/index.html</loc>
     
     <lastmod>2022-06-01</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://big-worth.github.io/</loc>
+    <loc>https://big-worth.github.io/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,21 +56,21 @@
 
   
   <url>
-    <loc>http://big-worth.github.io/tags/tag1/</loc>
+    <loc>https://big-worth.github.io/tags/tag1/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://big-worth.github.io/tags/tag2/</loc>
+    <loc>https://big-worth.github.io/tags/tag2/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://big-worth.github.io/tags/tag3/</loc>
+    <loc>https://big-worth.github.io/tags/tag3/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -79,7 +79,7 @@
 
   
   <url>
-    <loc>http://big-worth.github.io/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/</loc>
+    <loc>https://big-worth.github.io/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
