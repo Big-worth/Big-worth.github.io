@@ -4,7 +4,7 @@
   <url>
     <loc>https://big-worth.github.io/archives/498ab7d9.html</loc>
     
-    <lastmod>2023-11-03</lastmod>
+    <lastmod>2023-11-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -242,6 +242,13 @@
   </url>
   
   <url>
+    <loc>https://big-worth.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2023-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://big-worth.github.io/tags/%E9%80%92%E5%BD%92%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2023-11-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -278,13 +285,6 @@
   
   <url>
     <loc>https://big-worth.github.io/tags/%E6%A0%88/</loc>
-    <lastmod>2023-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://big-worth.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2023-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
