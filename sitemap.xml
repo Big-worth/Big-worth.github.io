@@ -272,6 +272,13 @@
   </url>
   
   <url>
+    <loc>https://big-worth.github.io/tags/Python/</loc>
+    <lastmod>2023-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://big-worth.github.io/tags/MySQL/</loc>
     <lastmod>2023-11-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -280,13 +287,6 @@
   
   <url>
     <loc>https://big-worth.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2023-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://big-worth.github.io/tags/Python/</loc>
     <lastmod>2023-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
