@@ -197,20 +197,6 @@
   </url>
   
   <url>
-    <loc>https://big-worth.github.io/tags/C/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://big-worth.github.io/tags/Python/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://big-worth.github.io/tags/HTML/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -219,6 +205,13 @@
   
   <url>
     <loc>https://big-worth.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-worth.github.io/tags/C/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -261,6 +254,13 @@
   
   <url>
     <loc>https://big-worth.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-worth.github.io/tags/Python/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -346,21 +346,7 @@
   </url>
   
   <url>
-    <loc>https://big-worth.github.io/categories/C/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://big-worth.github.io/categories/Markdown/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://big-worth.github.io/categories/Python/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -374,7 +360,21 @@
   </url>
   
   <url>
+    <loc>https://big-worth.github.io/categories/C/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://big-worth.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-worth.github.io/categories/Python/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
